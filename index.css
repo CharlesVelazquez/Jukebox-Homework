@@ -4,14 +4,6 @@
 	padding: 0;
 }
 
-#canvas  
-            {
-                margin-top:10px; 
-                border-style:solid; 
-                border-width:1px; 
-                padding:3px; 
-            }
-
 
 #Jukebox
 {
@@ -69,10 +61,9 @@
 
 #Buttons {
     position: relative;
-    border: 2px solid red;
     width: 45%;
     height: 18%;
-    top: 62%;
+    top: 48%;
     margin: 0 auto;
 }
 
